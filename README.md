@@ -15,7 +15,7 @@ Detecting diseases in plant leaves is crucial for ensuring crop health and maxim
 
 ## Installation 💻
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/ArkTrek/Leaf-Disease-Detection.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage 📋
